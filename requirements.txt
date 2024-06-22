@@ -7,3 +7,10 @@ tqdm
 torch
 torchvision
 pycocotools
+pillow
+requests
+jupyter
+matplotlib
+seaborn
+graphviz
+Cython

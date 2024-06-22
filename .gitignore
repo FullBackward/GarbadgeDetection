@@ -1,2 +1,3 @@
-data/
+data/COCO/batch_*
 *.jpg
+data/YOLO/*
